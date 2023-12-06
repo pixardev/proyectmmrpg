@@ -1,0 +1,6 @@
+# Godot
+.import/
+.export/
+.Godot/
+*.import/
+*.tscn.*
